@@ -1,0 +1,12 @@
+[
+{
+    "iterations":1,
+    "threads":0,
+    "symbols":8,
+    "symbol_size":67108864,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1535115474623923,
+    "end":1535115474912278
+}
+]

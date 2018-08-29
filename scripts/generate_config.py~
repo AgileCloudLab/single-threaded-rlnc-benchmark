@@ -1,0 +1,3 @@
+
+one_kb = 1024
+one_mb = 1024 * one_kb

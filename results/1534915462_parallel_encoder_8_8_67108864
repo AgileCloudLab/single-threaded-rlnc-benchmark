@@ -1,0 +1,102 @@
+[
+{
+    "iterations":10,
+    "threads":2147483648,
+    "symbols":8,
+    "symbol_size":67108864,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534915366171161,
+    "end":1534915366873865
+}
+{
+    "iterations":10,
+    "threads":2147483648,
+    "symbols":8,
+    "symbol_size":67108864,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534915376825528,
+    "end":1534915377530336
+}
+{
+    "iterations":10,
+    "threads":2147483648,
+    "symbols":8,
+    "symbol_size":67108864,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534915387627384,
+    "end":1534915388319032
+}
+{
+    "iterations":10,
+    "threads":2147483648,
+    "symbols":8,
+    "symbol_size":67108864,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534915398197040,
+    "end":1534915398943534
+}
+{
+    "iterations":10,
+    "threads":2147483648,
+    "symbols":8,
+    "symbol_size":67108864,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534915408819280,
+    "end":1534915409508716
+}
+{
+    "iterations":10,
+    "threads":2147483648,
+    "symbols":8,
+    "symbol_size":67108864,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534915419400391,
+    "end":1534915420105084
+}
+{
+    "iterations":10,
+    "threads":2147483648,
+    "symbols":8,
+    "symbol_size":67108864,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534915429995291,
+    "end":1534915430683688
+}
+{
+    "iterations":10,
+    "threads":2147483648,
+    "symbols":8,
+    "symbol_size":67108864,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534915440561504,
+    "end":1534915441248944
+}
+{
+    "iterations":10,
+    "threads":2147483648,
+    "symbols":8,
+    "symbol_size":67108864,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534915451127828,
+    "end":1534915451822084
+}
+{
+    "iterations":10,
+    "threads":2147483648,
+    "symbols":8,
+    "symbol_size":67108864,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534915461708297,
+    "end":1534915462409850
+}
+]

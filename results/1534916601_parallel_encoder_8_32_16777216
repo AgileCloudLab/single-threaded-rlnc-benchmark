@@ -1,0 +1,102 @@
+[
+{
+    "iterations":10,
+    "threads":21894,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916496927268,
+    "end":1534916498225473
+}
+{
+    "iterations":10,
+    "threads":21894,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916508347974,
+    "end":1534916509672473
+}
+{
+    "iterations":10,
+    "threads":21894,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916519782724,
+    "end":1534916521107239
+}
+{
+    "iterations":10,
+    "threads":21894,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916531200387,
+    "end":1534916532512331
+}
+{
+    "iterations":10,
+    "threads":21894,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916542634680,
+    "end":1534916543944665
+}
+{
+    "iterations":10,
+    "threads":21894,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916554065345,
+    "end":1534916555393350
+}
+{
+    "iterations":10,
+    "threads":21894,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916565504010,
+    "end":1534916566799992
+}
+{
+    "iterations":10,
+    "threads":21894,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916576919287,
+    "end":1534916578243529
+}
+{
+    "iterations":10,
+    "threads":21894,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916588369402,
+    "end":1534916589665902
+}
+{
+    "iterations":10,
+    "threads":21894,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916599809663,
+    "end":1534916601146202
+}
+]

@@ -1,0 +1,102 @@
+[
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534917005745321,
+    "end":1534917006652443
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534917016786522,
+    "end":1534917017703984
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534917027881971,
+    "end":1534917028784646
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534917038945379,
+    "end":1534917039867916
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534917050053089,
+    "end":1534917050987658
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534917061178481,
+    "end":1534917062091519
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534917072212128,
+    "end":1534917073098354
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534917083290022,
+    "end":1534917084177716
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534917094323896,
+    "end":1534917095236359
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534917105451408,
+    "end":1534917106356837
+}
+]

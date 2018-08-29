@@ -1,0 +1,102 @@
+[
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":16,
+    "symbol_size":33554432,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916891330215,
+    "end":1534916891786526
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":16,
+    "symbol_size":33554432,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916901799261,
+    "end":1534916902250260
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":16,
+    "symbol_size":33554432,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916912229970,
+    "end":1534916912664669
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":16,
+    "symbol_size":33554432,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916922628696,
+    "end":1534916923083697
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":16,
+    "symbol_size":33554432,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916933101665,
+    "end":1534916933546569
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":16,
+    "symbol_size":33554432,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916943525890,
+    "end":1534916943972660
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":16,
+    "symbol_size":33554432,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916953925040,
+    "end":1534916954377511
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":16,
+    "symbol_size":33554432,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916964354349,
+    "end":1534916964800693
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":16,
+    "symbol_size":33554432,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916974760601,
+    "end":1534916975208106
+}
+{
+    "iterations":10,
+    "threads":22093,
+    "symbols":16,
+    "symbol_size":33554432,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1534916985148018,
+    "end":1534916985597521
+}
+]

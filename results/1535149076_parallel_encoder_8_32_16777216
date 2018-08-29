@@ -1,0 +1,102 @@
+[
+{
+    "iterations":10,
+    "threads":21937,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1535148970928552,
+    "end":1535148971828476
+}
+{
+    "iterations":10,
+    "threads":21937,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1535148982479893,
+    "end":1535148983398335
+}
+{
+    "iterations":10,
+    "threads":21937,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1535148994052046,
+    "end":1535148994978548
+}
+{
+    "iterations":10,
+    "threads":21937,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1535149005619365,
+    "end":1535149006542776
+}
+{
+    "iterations":10,
+    "threads":21937,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1535149017200356,
+    "end":1535149018126397
+}
+{
+    "iterations":10,
+    "threads":21937,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1535149028759155,
+    "end":1535149029672075
+}
+{
+    "iterations":10,
+    "threads":21937,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1535149040432020,
+    "end":1535149041356246
+}
+{
+    "iterations":10,
+    "threads":21937,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1535149052019544,
+    "end":1535149052941730
+}
+{
+    "iterations":10,
+    "threads":21937,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1535149063551907,
+    "end":1535149064473599
+}
+{
+    "iterations":10,
+    "threads":21937,
+    "symbols":32,
+    "symbol_size":16777216,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1535149075173136,
+    "end":1535149076103210
+}
+]

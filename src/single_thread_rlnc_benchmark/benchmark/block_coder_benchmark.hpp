@@ -110,7 +110,7 @@ namespace benchmark
                 results.push_back(benchmark(config));
             }
 
-            auto write_path = generate_path(result_path, "parallel_encoder", config);
+            auto write_path = generate_path(result_path, "single_thread_block_coder", config);
             assert(write_results(write_path, results) && "Error writing for config");
             std::cout << "Experiment end sleeping for 10 seconds" << std::endl;
             std::this_thread::sleep_for(std::chrono::seconds(10));

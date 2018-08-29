@@ -14,26 +14,21 @@ def build(bld):
     #################################################################
     # Helper tests                                                  #
     #################################################################
-    bld.program(features='cxx',
-                source='./src/parallel_encoder/test/test_csv_reader/test_csv_reader.cpp',
-                target='test_csv_reader')
+    # bld.program(features='cxx',
+    #             source='./src/single-thread-rlnc-benchmark/test/test_csv_reader/test_csv_reader.cpp',
+    #             target='test_csv_reader')
 
 
     #################################################################
     # Encoder tests                                                 #
     #################################################################
 
-    bld.program(features='cxx',
-                source='./src/parallel_encoder/test/parallel_encoder/test_parallel_encoder.cpp',
-                target='test_parallel_encoder',
-                use=['kodo_rlnc'])
-
     #################################################################
     # Encoder benchmark                                             #
     #################################################################
     bld.program(features='cxx',
-                source='./src/parallel_encoder/benchmark/parallel_encoder_benchmark.cpp',
-                target='benchmark_parallel_encoder',
+                source='./src/single_thread_rlnc_benchmark/benchmark/block_coder_benchmark.cpp',
+                target='benchmark_block_coder',
                 use=['kodo_rlnc'])
 
     # bld.program(features='cxx',

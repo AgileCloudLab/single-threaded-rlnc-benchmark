@@ -34,9 +34,15 @@ namespace benchmark
     {
         std::stringstream stream;
         stream << "[" << std::endl;
-        for (auto res : results)
+
+        for (uint32_t i = 0; i < results.size(); ++i)
         {
-            stream << res.to_json_string() << std::endl;
+            stream << results.at(i).to_json_string();
+            if (i != results.size() - 1)
+            {
+                stream << ",";
+            }
+            stream << std::endl;
         }
         stream << "]";
         return stream.str();

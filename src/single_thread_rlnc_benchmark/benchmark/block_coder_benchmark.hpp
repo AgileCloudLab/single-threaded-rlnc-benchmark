@@ -61,10 +61,7 @@ namespace benchmark
                encoder->block_size());
 
         encoder->set_const_symbols(storage::storage(data_in));
-        if (encoder->has_systematic_mode() && config.systematic_on())
-        {
-            encoder->set_systematic_off();
-        }
+        encoder->set_systematic_off();
 
         std::vector<uint8_t> payload(encoder->payload_size());
 

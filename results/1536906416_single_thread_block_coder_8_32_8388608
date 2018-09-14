@@ -1,0 +1,1002 @@
+[
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906088660468,
+    "end":1536906089947399
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906091967797,
+    "end":1536906093257337
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906095291148,
+    "end":1536906096572577
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906098612047,
+    "end":1536906099894885
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906101945183,
+    "end":1536906103233364
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906105304375,
+    "end":1536906106591714
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906108627807,
+    "end":1536906109909710
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906111940424,
+    "end":1536906113224193
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906115261900,
+    "end":1536906116540108
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906118610203,
+    "end":1536906119890503
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906121957085,
+    "end":1536906123242237
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906125257617,
+    "end":1536906126544240
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906128588023,
+    "end":1536906129877427
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906131928327,
+    "end":1536906133214749
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906135271752,
+    "end":1536906136550112
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906138565611,
+    "end":1536906139852153
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906141910033,
+    "end":1536906143183070
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906145168990,
+    "end":1536906146444903
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906148430903,
+    "end":1536906149717613
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906151748756,
+    "end":1536906153029963
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906155054257,
+    "end":1536906156329233
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906158328615,
+    "end":1536906159611603
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906161613889,
+    "end":1536906162888761
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906164943606,
+    "end":1536906166225356
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906168246922,
+    "end":1536906169527006
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906171557124,
+    "end":1536906172842961
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906174877395,
+    "end":1536906176149637
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906178135203,
+    "end":1536906179416574
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906181466399,
+    "end":1536906182757450
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906184806878,
+    "end":1536906186093946
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906188148107,
+    "end":1536906189428677
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906191437029,
+    "end":1536906192721793
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906194748405,
+    "end":1536906196032382
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906198090106,
+    "end":1536906199374536
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906201440878,
+    "end":1536906202719632
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906204715559,
+    "end":1536906205988165
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906207983728,
+    "end":1536906209266363
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906211276686,
+    "end":1536906212553996
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906214552468,
+    "end":1536906215840408
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906217852456,
+    "end":1536906219135586
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906221157543,
+    "end":1536906222433886
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906224451676,
+    "end":1536906225729305
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906227746351,
+    "end":1536906229023564
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906231045446,
+    "end":1536906232326219
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906234367112,
+    "end":1536906235646106
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906237663611,
+    "end":1536906238946976
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906240953458,
+    "end":1536906242229550
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906244264124,
+    "end":1536906245546806
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906247580234,
+    "end":1536906248860239
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906250876224,
+    "end":1536906252156587
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906254167869,
+    "end":1536906255449006
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906257442343,
+    "end":1536906258730250
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906260715718,
+    "end":1536906261994119
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906263993899,
+    "end":1536906265268271
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906267254220,
+    "end":1536906268531136
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906270524545,
+    "end":1536906271801777
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906273807867,
+    "end":1536906275074677
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906277082492,
+    "end":1536906278359548
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906280350984,
+    "end":1536906281627072
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906283626477,
+    "end":1536906284901705
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906286895513,
+    "end":1536906288170298
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906290185876,
+    "end":1536906291467256
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906293507691,
+    "end":1536906294798619
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906296813355,
+    "end":1536906298096134
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906300129601,
+    "end":1536906301410195
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906303396097,
+    "end":1536906304676552
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906306677180,
+    "end":1536906307953802
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906309947680,
+    "end":1536906311226061
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906313211528,
+    "end":1536906314493856
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906316479533,
+    "end":1536906317754635
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906319768254,
+    "end":1536906321049366
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906323060816,
+    "end":1536906324342232
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906326404947,
+    "end":1536906327688758
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906329715440,
+    "end":1536906330987753
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906333000728,
+    "end":1536906334283624
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906336295385,
+    "end":1536906337569894
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906339608009,
+    "end":1536906340883339
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906342927393,
+    "end":1536906344202704
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906346227295,
+    "end":1536906347514805
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906349535217,
+    "end":1536906350818842
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906352817691,
+    "end":1536906354099969
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906356124061,
+    "end":1536906357401924
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906359447835,
+    "end":1536906360731195
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906362745209,
+    "end":1536906364022354
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906366042656,
+    "end":1536906367330284
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906369326651,
+    "end":1536906370604418
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906372644170,
+    "end":1536906373926316
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906375970430,
+    "end":1536906377250949
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906379254949,
+    "end":1536906380537074
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906382587313,
+    "end":1536906383858372
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906385885103,
+    "end":1536906387158040
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906389154368,
+    "end":1536906390433589
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906392420911,
+    "end":1536906393699481
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906395706277,
+    "end":1536906396993350
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906399044219,
+    "end":1536906400308574
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906402363977,
+    "end":1536906403635939
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906405638024,
+    "end":1536906406911377
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906408970315,
+    "end":1536906410249959
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906412247858,
+    "end":1536906413514445
+},
+{
+    "iterations":100,
+    "threads":1,
+    "symbols":32,
+    "symbol_size":8388608,
+    "finite_field":1,
+    "systematic_on":0,
+    "start":1536906415504801,
+    "end":1536906416768380
+}
+]

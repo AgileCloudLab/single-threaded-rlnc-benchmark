@@ -3,1000 +3,1000 @@
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903430768007,
-    "end":1536903430907255
+    "start":1537076904226457,
+    "end":1537076904227215
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903431691381,
-    "end":1536903431829010
+    "start":1537076904236063,
+    "end":1537076904236863
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903432621444,
-    "end":1536903432758777
+    "start":1537076904245331,
+    "end":1537076904246109
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903433555714,
-    "end":1536903433695123
+    "start":1537076904254512,
+    "end":1537076904255283
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903434503366,
-    "end":1536903434640571
+    "start":1537076904263682,
+    "end":1537076904264424
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903435429346,
-    "end":1536903435564568
+    "start":1537076904272833,
+    "end":1537076904273581
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903436350995,
-    "end":1536903436486419
+    "start":1537076904281986,
+    "end":1537076904282698
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903437270103,
-    "end":1536903437407020
+    "start":1537076904291120,
+    "end":1537076904291835
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903438212194,
-    "end":1536903438351803
+    "start":1537076904300181,
+    "end":1537076904300873
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903439178269,
-    "end":1536903439317505
+    "start":1537076904309264,
+    "end":1537076904309951
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903440126771,
-    "end":1536903440265211
+    "start":1537076904318326,
+    "end":1537076904319007
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903441067576,
-    "end":1536903441207267
+    "start":1537076904327436,
+    "end":1537076904328128
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903442033374,
-    "end":1536903442172561
+    "start":1537076904336373,
+    "end":1537076904337028
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903442968572,
-    "end":1536903443103759
+    "start":1537076904345192,
+    "end":1537076904345865
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903443913635,
-    "end":1536903444050861
+    "start":1537076904354026,
+    "end":1537076904354695
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903444840600,
-    "end":1536903444978132
+    "start":1537076904362844,
+    "end":1537076904363489
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903445770655,
-    "end":1536903445907736
+    "start":1537076904371562,
+    "end":1537076904372180
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903446691838,
-    "end":1536903446825407
+    "start":1537076904379952,
+    "end":1537076904380565
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903447618043,
-    "end":1536903447753197
+    "start":1537076904388266,
+    "end":1537076904388878
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903448542865,
-    "end":1536903448680209
+    "start":1537076904396590,
+    "end":1537076904397219
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903449472876,
-    "end":1536903449611333
+    "start":1537076904404920,
+    "end":1537076904405553
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903450425477,
-    "end":1536903450562885
+    "start":1537076904413283,
+    "end":1537076904413900
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903451371717,
-    "end":1536903451509367
+    "start":1537076904421601,
+    "end":1537076904422231
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903452315279,
-    "end":1536903452454716
+    "start":1537076904429939,
+    "end":1537076904430569
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903453239134,
-    "end":1536903453375592
+    "start":1537076904438227,
+    "end":1537076904438837
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903454201534,
-    "end":1536903454340169
+    "start":1537076904446552,
+    "end":1537076904447183
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903455124134,
-    "end":1536903455261607
+    "start":1537076904454838,
+    "end":1537076904455447
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903456068131,
-    "end":1536903456207124
+    "start":1537076904463149,
+    "end":1537076904463761
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903456995284,
-    "end":1536903457130529
+    "start":1537076904471464,
+    "end":1537076904472073
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903457920509,
-    "end":1536903458059836
+    "start":1537076904479690,
+    "end":1537076904480296
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903458865928,
-    "end":1536903459001522
+    "start":1537076904487986,
+    "end":1537076904488596
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903459790455,
-    "end":1536903459929845
+    "start":1537076904496316,
+    "end":1537076904496925
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903460736302,
-    "end":1536903460873577
+    "start":1537076904504675,
+    "end":1537076904505286
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903461669209,
-    "end":1536903461806692
+    "start":1537076904512997,
+    "end":1537076904513630
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903462597119,
-    "end":1536903462734418
+    "start":1537076904521367,
+    "end":1537076904521975
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903463523132,
-    "end":1536903463658549
+    "start":1537076904529693,
+    "end":1537076904530302
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903464441913,
-    "end":1536903464575375
+    "start":1537076904538031,
+    "end":1537076904538644
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903465362311,
-    "end":1536903465501968
+    "start":1537076904546316,
+    "end":1537076904546926
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903466293047,
-    "end":1536903466430483
+    "start":1537076904554652,
+    "end":1537076904555264
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903467214289,
-    "end":1536903467351381
+    "start":1537076904562951,
+    "end":1537076904563581
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903468135218,
-    "end":1536903468272259
+    "start":1537076904571362,
+    "end":1537076904571980
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903469061446,
-    "end":1536903469198675
+    "start":1537076904579688,
+    "end":1537076904580297
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903469990567,
-    "end":1536903470127874
+    "start":1537076904587969,
+    "end":1537076904588599
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903470920626,
-    "end":1536903471058237
+    "start":1537076904596294,
+    "end":1537076904596910
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903471842031,
-    "end":1536903471979233
+    "start":1537076904604619,
+    "end":1537076904605234
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903472763044,
-    "end":1536903472898476
+    "start":1537076904612939,
+    "end":1537076904613556
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903473682108,
-    "end":1536903473819512
+    "start":1537076904621295,
+    "end":1537076904621911
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903474603220,
-    "end":1536903474740627
+    "start":1537076904629622,
+    "end":1537076904630231
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903475529161,
-    "end":1536903475666537
+    "start":1537076904637906,
+    "end":1537076904638519
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903476450203,
-    "end":1536903476587130
+    "start":1537076904646172,
+    "end":1537076904646773
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903477370923,
-    "end":1536903477508129
+    "start":1537076904654538,
+    "end":1537076904655147
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903478291531,
-    "end":1536903478430617
+    "start":1537076904662880,
+    "end":1537076904663489
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903479218792,
-    "end":1536903479352431
+    "start":1537076904671186,
+    "end":1537076904671815
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903480136269,
-    "end":1536903480273715
+    "start":1537076904679517,
+    "end":1537076904680127
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903481061566,
-    "end":1536903481198810
+    "start":1537076904687828,
+    "end":1537076904688437
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903482019939,
-    "end":1536903482159539
+    "start":1537076904696137,
+    "end":1537076904696764
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903482970103,
-    "end":1536903483105680
+    "start":1537076904704465,
+    "end":1537076904705075
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903483894706,
-    "end":1536903484034084
+    "start":1537076904712835,
+    "end":1537076904713456
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903484854032,
-    "end":1536903484991117
+    "start":1537076904721166,
+    "end":1537076904721777
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903485800914,
-    "end":1536903485940683
+    "start":1537076904729473,
+    "end":1537076904730073
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903486764411,
-    "end":1536903486901811
+    "start":1537076904737792,
+    "end":1537076904738404
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903487690668,
-    "end":1536903487826745
+    "start":1537076904746103,
+    "end":1537076904746712
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903488634951,
-    "end":1536903488772694
+    "start":1537076904754390,
+    "end":1537076904755020
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903489556350,
-    "end":1536903489693553
+    "start":1537076904762735,
+    "end":1537076904763365
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903490512357,
-    "end":1536903490649600
+    "start":1537076904771060,
+    "end":1537076904771681
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903491459931,
-    "end":1536903491597244
+    "start":1537076904779262,
+    "end":1537076904779871
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903492401942,
-    "end":1536903492539407
+    "start":1537076904787653,
+    "end":1537076904788264
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903493340107,
-    "end":1536903493479303
+    "start":1537076904795976,
+    "end":1537076904796582
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903494262952,
-    "end":1536903494401997
+    "start":1537076904804273,
+    "end":1537076904804902
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903495188807,
-    "end":1536903495323846
+    "start":1537076904812602,
+    "end":1537076904813216
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903496117415,
-    "end":1536903496256773
+    "start":1537076904820934,
+    "end":1537076904821552
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903497051139,
-    "end":1536903497188435
+    "start":1537076904829277,
+    "end":1537076904829886
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903497972266,
-    "end":1536903498107713
+    "start":1537076904837541,
+    "end":1537076904838171
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903498919957,
-    "end":1536903499057578
+    "start":1537076904845884,
+    "end":1537076904846492
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903499846248,
-    "end":1536903499983502
+    "start":1537076904854219,
+    "end":1537076904854848
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903500793231,
-    "end":1536903500931452
+    "start":1537076904862555,
+    "end":1537076904863156
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903501715241,
-    "end":1536903501850927
+    "start":1537076904870871,
+    "end":1537076904871501
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903502634534,
-    "end":1536903502772027
+    "start":1537076904879206,
+    "end":1537076904879815
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903503556036,
-    "end":1536903503693309
+    "start":1537076904887525,
+    "end":1537076904888134
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903504495679,
-    "end":1536903504632538
+    "start":1537076904895733,
+    "end":1537076904896342
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903505416684,
-    "end":1536903505553726
+    "start":1537076904904051,
+    "end":1537076904904680
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903506366924,
-    "end":1536903506505903
+    "start":1537076904912378,
+    "end":1537076904913008
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903507308738,
-    "end":1536903507445750
+    "start":1537076904920706,
+    "end":1537076904921332
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903508251005,
-    "end":1536903508386319
+    "start":1537076904929039,
+    "end":1537076904929669
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903509174779,
-    "end":1536903509312256
+    "start":1537076904937417,
+    "end":1537076904938026
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903510112057,
-    "end":1536903510249533
+    "start":1537076904945740,
+    "end":1537076904946370
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903511053756,
-    "end":1536903511191190
+    "start":1537076904954051,
+    "end":1537076904954660
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903511975006,
-    "end":1536903512112342
+    "start":1537076904962363,
+    "end":1537076904962971
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903512929208,
-    "end":1536903513068803
+    "start":1537076904970705,
+    "end":1537076904971322
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903513866057,
-    "end":1536903514005501
+    "start":1537076904978967,
+    "end":1537076904979597
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903514822654,
-    "end":1536903514960007
+    "start":1537076904987249,
+    "end":1537076904987860
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903515748950,
-    "end":1536903515886035
+    "start":1537076904995580,
+    "end":1537076904996208
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903516688855,
-    "end":1536903516826689
+    "start":1537076905003811,
+    "end":1537076905004440
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903517618576,
-    "end":1536903517752241
+    "start":1537076905012147,
+    "end":1537076905012757
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903518549119,
-    "end":1536903518688662
+    "start":1537076905020463,
+    "end":1537076905021082
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903519488435,
-    "end":1536903519626370
+    "start":1537076905028815,
+    "end":1537076905029427
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903520443573,
-    "end":1536903520583297
+    "start":1537076905037128,
+    "end":1537076905037737
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903521378011,
-    "end":1536903521515533
+    "start":1537076905045471,
+    "end":1537076905046101
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903522324984,
-    "end":1536903522462295
+    "start":1537076905053809,
+    "end":1537076905054418
 },
 {
     "iterations":100,
     "threads":1,
     "symbols":8,
-    "symbol_size":13107200,
+    "symbol_size":131072,
     "finite_field":1,
     "systematic_on":0,
-    "start":1536903523245973,
-    "end":1536903523383275
+    "start":1537076905062134,
+    "end":1537076905062764
 }
 ]
